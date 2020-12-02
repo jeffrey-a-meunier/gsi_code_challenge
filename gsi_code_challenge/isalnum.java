@@ -21,7 +21,7 @@ import java.util.LinkedList;
  * <p>
  * The set of threads acts as a concurrent finite map of character-to-boolean.
  * <p>
- * The actual isAlNum method starts on line 265.
+ * The actual isAlNum method starts on line 263.
  * <p>
  *
  * To use:
